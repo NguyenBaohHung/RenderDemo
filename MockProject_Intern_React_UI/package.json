@@ -19,7 +19,7 @@
     "markdown-it": "^12.1.0",
     "moment": "^2.29.0",
     "numeral": "^2.0.6",
-    "react": "18.2.0",
+    "react": "17.0",
     "react-auth-wrapper": "^1.0.0",
     "react-autosuggest": "^10.1.0",
     "react-barcode": "^1.4.6",
